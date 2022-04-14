@@ -1,0 +1,15 @@
+RewriteEngine on
+RewriteRule ^$ site/
+RewriteRule ^dang-nhap-dang-ky$ /asmphp2/site/?act=loginregister [L]
+RewriteRule ^doi-mat-khau$ /asmphp2/site/?act=changepass [L]
+RewriteRule ^dang-xuat$ /asmphp2/site/?act=logout [L]
+RewriteRule ^gio-hang$ /asmphp2/site/?act=cartview [L]
+RewriteRule ^thanh-toan$ /asmphp2/site/?act=checkout [L]
+RewriteRule ^xac-nhan-gio-hang$ /asmphp2/site/?act=savebill [L]
+RewriteRule ^cam-on$ /asmphp2/site/?act=thankyou [L]
+RewriteRule ^quen-mat-khau$ /asmphp2/site/?act=forgotpass [L]
+RewriteRule ^thanh-toan-thanh-cong/$ /asmphp2/site/?act=ttthanhcong [L]
+
+RewriteRule ^dt/([a-zA-Z0-9-]+)$ /asmphp2/site/?act=detail&id=$2&slug=$1 [L]
+RewriteRule ^nsx/([a-zA-Z0-9-]+)$ /asmphp2/site/?act=cat&id=$2&slug=$1 [L]
+RewriteRule ^xoa-khoi-gio/(.*)$ /asmphp2/site/?act=cart&what=remove&id=$1 [L]

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7b56d044-f24c-4cff-999e-71c6b6660334" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/lib/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/lib/vendor/starkbank/ecdsa" />
+      <path value="$PROJECT_DIR$/lib/vendor/sendgrid/sendgrid" />
+      <path value="$PROJECT_DIR$/lib/vendor/sendgrid/php-http-client" />
+      <path value="$PROJECT_DIR$/lib/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1patQQRdURZ8ccT2vtR1egdDOCe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../testimg" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b56d044-f24c-4cff-999e-71c6b6660334" name="Default Changelist" comment="" />
+      <created>1615433018097</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615433018097</updated>
+      <workItem from="1615433019858" duration="26000" />
+      <workItem from="1617159387397" duration="523000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="0" key="FileChooserDialogImpl" timestamp="1617159914252">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="0" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1617159914251" />
+  </component>
+</project>
